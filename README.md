@@ -22,6 +22,6 @@ Open `crypto_prediction_optimized.ipynb` in Jupyter and run all cells.
 
 ## 📁 Project Structure
 ├── crypto_prediction_optimized.ipynb  # Main notebook
-├── requirements.txt                    # Dependencies
-├── README.md                           
-└── Plot_Images/                        # Auto-created on run
+├── requirements.txt                   # Dependencies
+├── README.md                          # Project documentation
+└── Plot_Images/                       # Auto-created on run
